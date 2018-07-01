@@ -1,0 +1,45 @@
+
+.icon{
+  width:20%;
+  height: auto;
+  display: block;
+  margin-left:auto;
+
+}
+
+li{
+  display:inline-block;
+  margin:0%;
+}
+
+.banner1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height:10%;
+}
+.offers{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.o1
+{
+  width: 30%;
+}
+.o1>img{
+  width:100%;
+}
+.o2
+{
+  width: 30%;
+}
+.o2>img{
+  width:100%;
+}
+.o3{
+  width:20%;
+}
+.o3{
+  width:19%;
+}
